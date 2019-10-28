@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dayaswebsite/static/css/main.7d2ab510.chunk.css",
+    "main.js": "/dayaswebsite/static/js/main.1d3091a9.chunk.js",
+    "main.js.map": "/dayaswebsite/static/js/main.1d3091a9.chunk.js.map",
+    "runtime-main.js": "/dayaswebsite/static/js/runtime-main.f4873834.js",
+    "runtime-main.js.map": "/dayaswebsite/static/js/runtime-main.f4873834.js.map",
+    "static/js/2.0a839049.chunk.js": "/dayaswebsite/static/js/2.0a839049.chunk.js",
+    "static/js/2.0a839049.chunk.js.map": "/dayaswebsite/static/js/2.0a839049.chunk.js.map",
+    "index.html": "/dayaswebsite/index.html",
+    "precache-manifest.7a3b6cc752b4bc6625039755503a8802.js": "/dayaswebsite/precache-manifest.7a3b6cc752b4bc6625039755503a8802.js",
+    "service-worker.js": "/dayaswebsite/service-worker.js",
+    "static/css/main.7d2ab510.chunk.css.map": "/dayaswebsite/static/css/main.7d2ab510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4873834.js",
+    "static/js/2.0a839049.chunk.js",
+    "static/css/main.7d2ab510.chunk.css",
+    "static/js/main.1d3091a9.chunk.js"
+  ]
+}
