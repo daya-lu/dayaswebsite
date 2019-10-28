@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,800');
+
+body {
+  width: 100%;
+}
+
+p {
+  margin-left: 30px;
+  margin-bottom: -10px;
+  font-size: 20px;
+}
+
+#intro p {
+  font-family: monospace;
+}
+
+#links {
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 60px;
+  text-align: right;
+}
+
+#name {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.logo {
+  margin-left: 40px;
+  display: block;
+}
+
+.letter {
+  font-size: 200px;
+  line-height: 110px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 800;
+  letter-spacing: -20px;
+  mix-blend-mode: color-burn;
+  position: relative;
+  transition: top ease 0.1s;
+  transition-delay: 2s;
+  opacity: 0.9;
+}
+
+#d {
+  color: #ef5350;
+}
+
+#a1 {
+  color: #ab47bc;
+}
+
+#y {
+  color: #825bd6;
+}
+
+#l1 {
+  color: #3949ab;
+}
+
+#y1 {
+  color: #2196f3;
+}
+
+#u {
+  color: #00bcd4;
+}
+
+#a2 {
+  color: #4caf50;
+}
+
+#l {
+  color: #ffc107;
+}
+
+#a1 {
+  color: #ff80ab;
+}
+
+#l2 {
+  color: #ff8f00;  
+}
+
+@keyframes mymove {
+    0% {
+      top: 0px;
+    }
+    50% {
+      top: 50px;
+    }
+    100% {
+      top: 0px;
+  }
+}
+
+.typewriter p {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .10em solid #aa6b89; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  animation: blink-caret .75s step-end infinite;
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  10% { border-color: #aa6b89 }
+}
+  
+.hovered {
+  animation: mymove 3s;
+}
+
+::selection {
+  background: #b39ddb;
+}

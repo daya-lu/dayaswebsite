@@ -1,0 +1,86 @@
+{
+  "main": {
+    "name":"Daya Lu",
+    "occupation":"Software engineer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "contactmessage":"Let's get in touch!",
+    "email": "dayalu@jhu.edu",
+    "phone": "202-230-8216",
+    "address":{
+      "street":"7 Silver Kettle Ct",
+      "city":"Gaithersburg",
+      "state":"MD",
+      "zip": "20878"
+    },
+    "website": "http://www.daya-lu.github.io",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/daya-lu",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"resume",
+        "url":"resume.pdf",
+        "className":"fa fa-file"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/daya-lu",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/daya.lu",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"pinterest",
+        "url":"https://www.pinterest.com/daya426/",
+        "className":"fa fa-pinterest"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"American Marketing Association",
+        "category":"Annual reports and graphics I created as Vice President of Marketing for The American Marketing Association (Nest Strategies) at JHU.",
+        "image":"ama.png",
+        "url":""
+      },
+      {
+        "title":"High School",
+        "category":"A collection of graphics I made in high school for digital art, the school website, and the school play. A throwback!",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"Chore Tracker",
+        "category":"Wireframes I created as a part of my User Interfaces & Mobile Applications class, in which I worked on the frontend for an Android app.",
+        "image":"uima.png",
+        "url":""
+      },
+      {
+        "title":"Study Stacks",
+        "category":"A wireframe I created for Study Stacks, a Quizlet-like app to study flash cards.",
+        "image":"study.png",
+        "url":""
+      },
+      {
+        "title":"Mobelle",
+        "category":"A furniture recommendation website I worked on the front end for as part of a semester long group project for my Object Oriented Software Engineering class.",
+        "image":"mobelle.png",
+        "url":"http://mobelle.herokuapp.com"
+      },
+      {
+        "title":"Goba",
+        "category":"Graphics I made for Goba tea bottles, a startup on campus that sold bottled bubble tea.",
+        "image":"goba.png",
+        "url":""
+      }
+    ]
+  }
+}
